@@ -1,0 +1,15 @@
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\bin\Debug\net8.0\DataAccess.EFCore.deps.json
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\bin\Debug\net8.0\DataAccess.EFCore.dll
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\bin\Debug\net8.0\DataAccess.EFCore.pdb
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\bin\Debug\net8.0\Domain.dll
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\bin\Debug\net8.0\Domain.pdb
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAcce.6A56E986.Up2Date
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.dll
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\refint\DataAccess.EFCore.dll
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\DataAccess.EFCore.pdb
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\DataAcces.EFCore\obj\Debug\net8.0\ref\DataAccess.EFCore.dll

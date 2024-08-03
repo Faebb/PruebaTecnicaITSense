@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\inventarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\inventarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\inventarioapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B774BBF-061A-4816-B9BF-C3C4FB2C9282}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8DBBD-7EB3-4BC4-8BBB-665FCB85562A}|DataAcces.EFCore\\DataAccess.EFCore.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\dataacces.efcore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8DBBD-7EB3-4BC4-8BBB-665FCB85562A}|DataAcces.EFCore\\DataAccess.EFCore.csproj|solutionrelative:dataacces.efcore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8DBBD-7EB3-4BC4-8BBB-665FCB85562A}|DataAcces.EFCore\\DataAccess.EFCore.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\dataacces.efcore\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8DBBD-7EB3-4BC4-8BBB-665FCB85562A}|DataAcces.EFCore\\DataAccess.EFCore.csproj|solutionrelative:dataacces.efcore\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\domain\\entidades\\productstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\productstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|c:\\users\\faeb2\\desktop\\pruebatecnicaitsense\\inventarioapi\\domain\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692AB8-C71F-49F5-B611-BE8255AC2F5E}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:29:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductStates.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Entidades\\ProductStates.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\ProductStates.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Entidades\\ProductStates.cs",
+              "RelativeToolTip": "Domain\\Entidades\\ProductStates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:13:19.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "InventarioApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:06:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAcces.EFCore\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DataAcces.EFCore\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:15:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:17:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\InventarioContext.cs",
+              "RelativeDocumentMoniker": "DataAcces.EFCore\\InventarioContext.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\InventarioContext.cs",
+              "RelativeToolTip": "DataAcces.EFCore\\InventarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:14.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\Program.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\Program.cs",
+              "RelativeToolTip": "InventarioApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:32:46.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\appsettings.json",
+              "RelativeDocumentMoniker": "InventarioApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\InventarioApi\\appsettings.json",
+              "RelativeToolTip": "InventarioApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T23:02:28.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240803184033_NombresTablasv5.cs",
+              "DocumentMoniker": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs",
+              "RelativeDocumentMoniker": "DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs",
+              "ToolTip": "C:\\Users\\Faeb2\\Desktop\\PruebaTecnicaITSense\\InventarioApi\\DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs",
+              "RelativeToolTip": "DataAcces.EFCore\\Migrations\\20240803184033_NombresTablasv5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:40:33.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
