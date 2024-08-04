@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Repositories
+namespace DataAccess.EFCore.Repositories
 {
     public class ProductRepository : IProductRepository
     {

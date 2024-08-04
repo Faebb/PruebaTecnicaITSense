@@ -1,13 +1,14 @@
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\bin\Debug\net8.0\Domain.dll
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\bin\Debug\net8.0\Domain.pdb
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.pdb
-C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\ref\Domain.dll
-C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Faeb2\Desktop\PruebaTecnicaITSense\InventarioApi\Domain\obj\Debug\net8.0\ref\Domain.dll

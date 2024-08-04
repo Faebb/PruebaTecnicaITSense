@@ -10,5 +10,6 @@ namespace DataAcces.EFCore
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductStates> ProductStates { get;set; }
+        public DbSet<User> Users { get; set; }
     }
 }
